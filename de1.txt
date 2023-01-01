@@ -1,0 +1,479 @@
+﻿Câu 1.  Ứng dụng đặc điểm“ chuyển hóa nhanh, hấp thụ nhiều” của vi sinh vật.
+* Tạo ra số lượng lớn trong thời gian ngắn 
+Dễ phất hiện các đột biến
+Dễ dàng nuôi cấy vì cần cung cấp chất dinh dưỡng đầy đủ
+Chẩn đoán vi sinh vật nhanh chóng thông qua tính chất sinh vật, hóa học 
+
+Câu 2.  Phản ứng ngưng kết hồng cầu thụ động đảo ngược
+* Là phản ứng dùng hồng cầu gắn kháng nguyên hòa tan để phát hiện và đo lường kháng thể 
+Là phản ứng ngưng kết trong đó hồng cầu được dùng làm nền mượn để gắn kháng thể 
+Là phản ứng dùng hồng cầu để gắn kháng thể tương ứng với các kháng nguyên có sẵn 
+Do một số virus có khả năng là ngưng kết hống cầu 
+
+Câu 3.  Phát biểu nảo sau đây đúng.
+* Sự phát triển vi khuẩn lao kháng thuốc liên quan đến sự lây lan các plamid kháng thuốc 
+Khi phản ứng Tuberulin (+), chúng ta có thể kết luận bệnh nhân bị bệnh lao
+Các thuốc kháng lao hiện dùng là. Streptomyin, Ethabuton, Isoniazid, cephalosphorin thế hệ 3 
+Có thể dùng môi trường như BBL, MGIT để giảm thời gian nuôi cấy vi khuẩn lao xuống 
+
+Câu 4.  Vi khuẩn ký sinh nội bào bắt buộc giống virus ở.
+* Nhân chứ AND, ARN
+Cấu trúc 
+Không nhạy cảm với kháng sinh
+Nhân lên trong tế bào
+
+Câu 5.  Biểu hiện tại chỗ hoặc toàn thân của cơ thể vật chủ trong bệnh nhiễm trùng phụ thuộc vào.
+* Độc lực của vi sinh vật gây bệnh và đáp ứng của cơ thể vật chủ 
+Độc lực của vi sinh vật gây bệnh 
+Phản ứng của cơ thể vật chủ 
+Đường xâm nhập của vi sinh vật 
+
+Câu 6.  Tính chất nuôi cấy của Leptospira
+* Tạo lắng cặn dưới đáy môi trường 
+Mọc nhanh
+Nhiệt độ thích hợp 28-300C
+Hiếu kỵ khí tùy tiện
+
+Câu 7.  Đặc điểm vể hình thể của trực khuẩn bạch hầu.
+* Trực khuẩn gram (+) hình chùy 
+Trực khuẩn gram (+) đầu vuông
+Trực khuẩn gram (-) một hoặc 2 đầu phình to
+Trực khuẩn gram (-) hai đầu tròn 
+
+Câu 8.  Nhân của vi khuẩn khác với nhân của tế bào động vật bặc cao ở.
+* Không có màng nhân và bộ máy phân bào 
+Chứa nhiều nhiễm sắc thể 
+Hình thể và số lượng 
+Chất liệu acid nucleic
+
+Câu 9.  Bệnh phẩm thông thường nhất để phân lập Poliovirus là.
+* Dịch họng 
+Máu 
+Đờm 
+Phân 
+
+Câu 10.  Tính chất sinh vật hóa học của Vibrio.
+* Oxydase (-)
+Indol (-)
+Catalase (+)
+Lên men sinh hơi nhiều loại đường
+
+Câu 11.  Các yếu tố độc lực của virus, ngoại trừ.
+* Tiết ra các enzyme làm mất tác dụng của kháng thể 
+Gây biến dạng nhiễm sắc thể 
+Chui vào trong tế bào tránh tác dụng của kháng thể 
+Ức chế tế bào tổng hợp các thành phần của mình 
+
+Câu 12.  Bản chất kháng nguyên H của họ vi khuẩn đường ruột là 
+* Protein
+Peptidoglycan
+Phức hợp lipoprotein
+Phức hợp lipopolysaccharide
+
+Câu 13.  Sau khi đã hấp thụ vào bề mặt tế bào cảm thụ virus sẽ 
+* Làm rối loạn quá trình trao đổi chất của tế bào
+Kích thích tế bào tổng hợp Interferon
+Ức chế các hoạt động bình thường của tế bào 
+Xâm nhập vào tế bào 
+
+Câu 14.  Trong giai đoạn cởi áo.
+* Virus tổng hợp xong những enzym cần thiết 
+Virus tiến đến nhân tế bào 
+Capsid thay đổi hình dạng
+Capsid bị phá vỡ axit nucleic được phóng thích 
+
+Câu 15.  Phương pháp nhuộm để xem tính chất bắt màu đặc biệt của Yersinia pestis thường là 
+* Nhuộm wayson
+Nhuộm gram
+Nhuộm đơn
+Nhuộm Jienl – Nelseen
+
+Câu 16.  Dương tính giả là hiện tượng.
+* Kết quả phản ứng cho âm tính và không có kháng nguyên, kháng thể cần tìm 
+Kết quả phản ứng cho dương tính nhưng không có kháng nguyên, kháng thể cần tìm 
+Kết quả phản ứng cho dương tính và có kháng nguyên, kháng thể cần tìm 
+Kết quả phản ứng cho âm tính nhưng có kháng nguyên, kháng thể cần tìm 
+
+Câu 17.  Đặc điểm của virus viêm gan B 
+* Hình khối, đường kính 27nm
+Hình sợi dài, đường kính 24nm
+Hình cầu, đường kính 42nm
+Hình cầu, đường kính 27nm
+
+Câu 18.  Chủng virus dại cố định.
+* Phát triển ngoài mô thần kinh
+Không lưu hành trong tự nhiên 
+Gây bệnh dại khi tiêm vào cơ thể theo con đường ngoại thần kinh 
+Có trong nước bọt động vật nhiễm virus
+
+Câu 19.  Chất liệu di truyền trên R- plasmid có thể được lan truyền từ vi khuẩn nọ sang vi khuẩn kia là 
+* Biến nạp, tải nạp, plasmid tra 
+Tải nạp, transposon, plasmid tra
+Tiếp hợp, tải nạp, plasmid tra 
+Tiếp hợp, biến nạp, tải nạp, plasmid tra.
+
+Câu 20.  Đường truyền bệnh của virus viêm gan D
+* Đường tiêu hóa 
+Đường nhau thai sữa mẹ
+Đường tiết niệu sinh dục 
+Đường truyền máu, tiêm chích 
+
+Câu 21.  Virus dại.
+* Nhạy cảm với ether
+Capsid đối xứng xoắn
+Hình viên đạn, chứa ARN hai sợi 
+Không có vỏ bao ngoài 
+
+Câu 22.  Đặc điểm Staphylococcus aureus.
+* Có kháng nguyên H
+Lên men đường Mannitol
+Không gây các nhiễm trùng ở da 
+Chủ yếu gây viêm niệu đạo cấp 
+
+Câu 23.  Hiệu giá ranh giới phản ứng ASLO là.
+* 1/200
+1/400
+1/1600
+1/800
+
+Câu 24.  Để phân lập tụ cầu từ bệnh phẩm phân cần cấy ngay vào môi trường.
+* Môi trường thạch thường 
+Môi trường thạch máu 
+Môi trường canh thang 
+Môi trường Chapman
+
+Câu 25.  Kháng sinh đồ là kỹ thuật.
+* Xác định vi khuẩn gây bệnh sau khi phân lập, định danh vi khuẩn 
+Xác định nồng độ kháng thuốc kháng sinh của vi khuẩn 
+Xác định mức độ nhạy cảm của kháng sinh với vi khuẩn 
+Xác định mức độ nhạy cảm của vi khuẩn với kháng sinh
+
+Câu 26.  Poliovirus được chia thành 3 typ dựa vào.
+* Hiệu ứng tế bào bệnh lý trên nuôi cấy tế bào 
+Dịch tễ của từng typ
+Sự khác nhau về cấu trúc kháng nguyên 
+Triệu chứng lâm sàng khác nhau của mỗi typ
+
+Câu 27.  Sự đề kháng kháng sinh do thay đổi đích tác dụng của thuốc tìm thấy với thuốc sau.
+* Tetracyclin
+Chloramphenicol
+Kháng sinh nhóm Macrolid
+Kháng sinh nhóm Aminoglycosid
+
+Câu 28.  Phát biểu nào sau đây đúng.
+* Phage chứa DNA hiếm gặp hơn phage chứa RNA
+Cấu trúc phage gồm 2 phần. đầu, đuôi
+Capsid của phage có cấu trúc phức tạp 
+Một tế bào vi khuẩn đồng thời có thể nhiễm 2 phage khác nhau 
+
+Câu 29.  Đường lây nhiễm virus sởi.
+* Tiếp xúc trực tiếp qua da xây xát 
+Kết mạc mắt 
+Tiêu hóa 
+Máu
+
+Câu 30.  Tác dụng của enzyme protease.
+* Phá hủy màng nguyên sinh chất của tế bào vật chủ giúp virus xâm nhập 
+Phá hủy cấu trúc protein của tế bào chủ gây hủy hoại tế bào 
+Làm thủng màng nguyên sinh chất giúp virus giải phóng
+Tách các polyprotein được mã hóa gen Gag và gen Pol thành các phân tử hoạt động 
+
+Câu 31.  Vi khuẩn nào sau đây bắt màu tím khi nhuộm bằng phương pháp Gram.
+* Neisseria meningitidis
+Burkholderia pseudomallei
+Staphylđộ Cđộ Ccus aureus
+Pseudomonas aeruginosa
+
+Câu 32.  Bệnh tinh hồng nhiệt liên quan đến độc tố.
+* Alpha toxin
+Erythrogenic toxin
+Streptodornase
+Exfoliatin toxin 
+
+Câu 33.  Trong môi trường keo nếu làm mất nước vi sinh vật sẽ.
+* Chết ít và chậm 
+Chết rất nhanh và nhiều 
+Chết rất ít và rất chậm 
+Không chết 
+
+Câu 34.  Phản ứng Schick.
+* Phản ứng dương tính khi xuất hiện quầng đỏ > = 10mm
+Kháng nguyên sử dụng là vi khuẩn bạch hầu 
+Là phản ứng trung hòa nội độ tốc 
+Đánh giá hiệu lực sau khi tiêm vacxin bạch hầu 
+
+Câu 35.  Phát biểu nào sau đâu đúng.
+* Virus có quá trình trao đổi chất, không có khả năng tự nhân lên ngoài tế bào sống 
+Virus có cấu tạo đơn giản và có khả năng tự sinh sản 
+Virus nhạy cảm với các kháng sinh thông thường 
+Pseudovirion là những hạt virus có vỏ capsid bao quanh acid nucleic của tế bào chủ 
+
+Câu 36.  Thành phần chính trong cấu trúc của vi khuẩn.
+* Nha bào 
+Lông 
+Màng nguyên sinh chất 
+Pili
+
+Câu 37.  Đặc điểm của các vi khuẩn thuộc Enterobacteriaceae.
+* Khử nitrat thành nitrit
+Không sinh nha bào 
+Di động 
+Lên men đường Glucose và sinh hơi 
+
+Câu 38.  Vi khuẩn kháng thuốc kháng sinh theo cơ chế.
+* Vi khuẩn sản xuất kháng sinh đối kháng tác dụng của thuốc 
+Tăng sự phá hủy thuốc do enzyme
+Thay đổi điểm gắn của thuốc vào các protein
+Thay đổi đường biến dưỡng của thuốc 
+
+Câu 39.  Trong thực tế, chẩn đoán Leptospira thường dùng phương pháp.
+* Soi tươi, nhuộm soi
+Nuôi cấp 
+Tìm kháng thể trong huyết thanh 
+Tiêm vào động vật thí nghiệm 
+
+Câu 40.  Trong điều trị nhiễm khuẩn, phối hợp kháng sinh có tác dụng. 
+* Luôn luôn cho hiệu quả cao 
+Để điều trị nhiễm khuẩn đường tiêu hóa do có nhiều loại vi khuẩn 
+Để điều trị các nhiễm khuẩn bội nhiễm sau khi nhiễm virus
+Giảm chủng đột biến kháng thuốc 
+
+Câu 41.  Trong tiếp hợp, tế bào vi khuẩn cái.
+* Chứa nhân tố F
+Đóng vai trò vận chuyển nhân tố F
+Đóng vai trò tế bào nhận 
+Đóng vai trò tế bào cho 
+
+Câu 42.  Ở vách vi khuẩn gram (-), lớp polysaccharide quyết định.
+* Tính sinh miễn dịch 
+Độc tính ngoại độc tố 
+Độc tính nội độc tố 
+Tính đặc hiệu kháng nguyên 
+
+Câu 43.  Tính chất chống virus của interferon. 
+* Mang tính đặc hiệu loài 
+Mang tính đặc hiệu typ interferon
+Mang tính đặc hiệu với virus
+Mang tính đặc hiệu với động vật 
+
+Câu 44.  Huyết thanh tìm kháng thể virus Dengue nếu chưa làm ngay có thể bảo quản ở.
+* Nhiệt độ phòng
+-70 độ C
+-20 độ C
+4-8 độ C
+
+Câu 45.  Bệnh phẩm dùng để chẩn đoán bệnh sốt hồi quy là.
+* Dịch tại vết đốt 
+Máu lúc đang có cơn sốt 
+Máu giữa 2 cơn sốt 
+Dịch tại da xây xát 
+
+Câu 46.  Vibrio cholerae O1 được chia làm các typ huyết thanh.
+* Hikojima, V.cholerae sinh typ Eltor, V.cholerae sinh type cổ điển
+V.cholerae sinh typ Eltor, V.cholerae sinh type cổ điển, Ogawa
+Ogawa, Inaba, Hikojma
+Inaba, Hikojma, V.cholerae sinh type Eltor
+
+Câu 47.  Khi virus cúm xâm nhập vào tế bào thích hợp thì ARN của virus được tổng hợp trong …(1)… của tế bào chủ, các thành phần khác của virus được tổng hợp trong.(2)… của tế bào chủ.
+* (1) bào tương, (2) bộ máy Golgi
+(1) nhân, (2) bào tương
+(1) nhân, (2) lưới nội bào 
+(1) bào tương, (2) nhân 
+
+Câu 48.  Sau khi xâm nhập cơ thể, vi khuẩn lao chỉ bị tiêu diệt bởi. 
+* Đại thức bào đã được hoạt hóa bởi opsonin
+Tế bào bạch cầu đơn nhân
+Đại thực bào đã được hoạt hóa bởi lymphokin
+Tế bào bạch cầu đa nhân 
+
+Câu 49.  Các vi khuẩn gây bệnh nói chung được xếp vào nhóm.
+* Vi khuẩn ưa ấm 
+Vi khuẩn ưa lạnh 
+Vi khuẩn ưa nóng 
+Vi khuẩn ưa khô 
+
+Câu 50.  Globulin người thường được sử dụng.
+* Để phòng tan máu sơ sinh 
+Để điều trị những bệnh cấp tính như viem gan B, bạch hầu, uốn ván …
+Để phòng ngừa trong một vài hoàn cảnh bệnh lý có nguy cơ nhiễm trùng trầm trọng 
+Điều trị suy giảm miễn dịch dịch thể và tế bào 
+
+Câu 51.  Cho biết ở vi khuẩn E.coli toàn bộ ADN có 107 cặp nucleotit, được chuyển hết sang trong 100 phút, 1 phút tương đương 20 đơn vị tái tổ hợp. Một đơn vị tái tổ hợp bằng.
+* 300 cặp base
+400 cặp base
+500 cặp base
+200 cặp base
+
+Câu 52.  Đặc điểm sinh vật hóa học của vi khuẩn lao.
+* Môi trường nuôi cấp thường dùng là môi trường đặc Sauton
+Trên môi trường đặc, khuẩn lạc dạng R
+Phát triển nhanh sau 24 -48 giờ trên môi trường lỏng chuyên biệt 
+Không nuôi cấp được trên môi trường nhân tạo 
+
+Câu 53.  Bệnh phẩm mủ ở bộ phận sinh dục, khi nhuộm gram nếu thấy.
+* Có nhiều song cầu gram (-) nằm trong bạch cầu đa nhân thì có giá trị chẩn đoán cao 
+Có song cầu gram (-) nằm ngoài tế bào bạch cầu thì có giá trị chẩn đoán bệnh lậu
+Có nhiều bạch cầu đa nhân cũng đủ để xác định là mắc bệnh lậu 
+Nhiều bạch cầu đa nhân và trực khuẩn gram (-) thì có giá trị chẩn đoán bệnh lậu 
+
+Câu 54.  Loại kháng thể giảm sớm nhất sau khi bị bệnh quai bị là. 
+* Kháng thể kết hợp bổ thể 
+Cả B và C
+Kháng thể trung hòa 
+Kháng thể ngăn ngưng kết hồng cầu 
+
+Câu 55.  Bệnh phẩm thường dùng để xét nghiệm tìm virus viêm gan A.
+* Dịch mũi họng 
+Phân 
+Máu 
+Nước tiểu 
+
+Câu 56.  Phân lập virus Dengue trong phòng thí nghiệm, bệnh phẩm được tiêm vào loại muỗi.
+* Culex
+Toxorhynchites
+Anopheles
+Aedes aegypti đực 
+
+Câu 57.  Aciclovir an toàn hơn so với các hóa trị liệu khác bởi.
+* Không xâm nhập vào các tế bào bình thường 
+Thuốc có tác dụng với nồng độ thấp 
+Không có dạng acyclovir triphosphate trong tế bào không bị nhiễm virus 
+Ít tác dụng phụ 
+
+Câu 58.  Nếu phản ứng Besredka cho kết quả có mẩn đỏ thì.
+* Không nên sử dụng huyết thanh đó nếu tình trạng cho phép 
+Tùy vào tình trạng bệnh mà sử dụng hoặc A hoặc B hoặc C
+Trường hợp phải dùng nên chia nhỏ liều, tiêm hết trong vòng 24h 
+Có thể truyền tĩnh mạch từ từ 
+
+Câu 59.  Bệnh cúm ở người.
+* Sau khi khỏi bệnh thường để lại di chứng 
+Có tỷ lệ tử vong cao 
+Do 3 typ virus cúm A, B, C gây nên 
+Do trực khuẩn cúm gây nên 
+
+Câu 60.  Tính chất sinh vật hóa học của E.coli.
+* Có khả năng chuyển hóa citrate
+Lên men không sinh hơi nhiều loại đường 
+Không sinh H2S
+Có men Urease
+
+Câu 61.  Sự tích hợp genom của virus vào ADN tế bào chủ được thực hiện nhờ enzim.
+* Enzym sao chép ngược RT
+Enzyme Intergrase
+Enzyme AND polymerase
+Enzyme protease
+
+Câu 62.  Thành phần quyết định độc tính của nội độc tố.
+* Lớp lipid của vách
+Vỏ polysaccharide
+Lớp protein của vách 
+Lớp protein của lông 
+
+Câu 63.  Sự đột biến cấu trúc kháng nguyên của virus cúm thường gặp ở.
+* Typ A
+Typ C
+Typ B
+Cả 3 Typ A, B, C
+
+Câu 64.  Bệnh bại liệt xảy ra sau khi.
+* Virus xâm nhập và phá hủy hệ thần kinh trung ương
+Virus nhân lên ở vùng miệng họng và ruột 
+Virus xâm nhập vào máu 
+Virus nhân lên ở những hạch bạch huyết và màng treo ruột 
+
+Câu 65.  Giữa các type virus Dengue có thành phần kháng nguyên chung là.
+* Kháng nguyên kết hợp bổ thể
+Kháng nguyên ngưng kết hồng cầu 
+Kháng nguyên trung hòa 
+Kháng nguyên vỏ bao ngoài 
+
+Câu 66.  Trong thể phong ác tính 
+* Thử nghiệm Mitsuda (+)
+Ít hoặc không có vi khuẩn ở tồn thương 
+Quá trình tiến triển nhanh và nặng 
+Vi khuẩn luôn luôn đề kháng với thuốc 
+
+Câu 67.  Capside của Poliovirus.
+* Giúp cho virus cố định lên bề mặt tế bào cảm thụ 
+Mang kháng nguyên đặc hiệu của virus 
+Cả A, B, D
+Là vỏ ngoài của virus 
+
+Câu 68.  Các virus viêm gan giống nhau ở.
+* Khả năng gây bệnh 
+Cấu trúc 
+Đường xâm nhập 
+Tế bào đích để virus xâm nhập 
+
+Câu 69.  Đặc điểm nhóm Paramyxovirus.
+* ARN 2 sợi không chia đoạn 
+ARN được tổng hợp trong bào tương tế bào 
+Đều có hình cầu 
+Chỉ xâm nhập và nhân lên ở tế bào đường hô hấp 
+
+Câu 70.  Hiện tượng hoán vị kháng nguyên ở virus cúm có thể xảy ra khi.
+* Virus nhận được đoạn ARN mới và trao đổi với genom của mình 
+Đột biến làm biến đổi cấu trúc một đoạn gen của virus
+Có hiện tượng đảo đoạn do genom của virus phân đoạn 
+Hai hay nhiều chủng virus cúm cùng xâm nhiễm vào một tế bào 
+
+Câu 71.  Vacxin quai bị được khuyến cáo dùng hiện nay là.
+* Vacxin tái tổ hợp 
+Vacxin sống giảm độc tố 
+Vacxin chết 
+Vacxin kháng nguyên vỏ capsid của virus 
+
+Câu 72.  Sự đề kháng tự nhiên.
+* Do tiếp nhận plasmid kháng thuốc 
+Có nguồn gốc do đột biến nhiễm sắc thể 
+Do vi khuẩn tiếp xúc với kháng sinh thì tạo nha bào giúp vi khuẩn đề kháng 
+Do trong cấu trúc của vi khuẩn không có đích tác động của kháng sinh 
+
+Câu 73.  Đặc điểm sinh học của Clostridium.
+* Trực khuẩn Gram dương, không vỏ, có lông, sinh nha bào 
+Cầu khuẩn gram dương, không vỏ, không lông, không sinh nha bào 
+Trực khuẩn gram âm, không vỏ, không lông, sinh nha bào 
+Cầu khuẩn gram âm, có vỏ, có lông, không sinh nha bào 
+
+Câu 74.  Nhiệt độ thích hợp giữ chủng phế cầu là.
+* -70 độ C
+18-30 độ C
+4-8 độ C
+-20 độ C
+
+Câu 75.  Các yếu tố ảnh hưởng đến sự đáp ứng miễn dịch đối với Vacxin, ngoại trừ.
+* Kháng thể mẹ truyền 
+Thời điểm sử dụng vacxin trong ngày 
+Chất phụ gia miễn dịch 
+Tính kháng nguyên của vacxin
+
+Câu 76.  Vách của vi khuẩn gram (+) có cấu tạo.
+* Một lớp peptidoglycan
+Lipid A
+Lipoprotein
+Peptidoglycan và acid tenoic
+
+Câu 77.  Phát biểu nào sau đây không đúng.
+* Hiện tượng opsonin hóa làm cho sự thực bào xảy ra nhanh chóng hơn 
+Đáp ứng miễn dịch dịch thể có vai trò quan trọng trong việc chống lại các vi sinh vật ký sinh nội bào 
+Khi vi sinh vật qua được da và niêm mạc, cơ thể chống lại bằng phản ứng viêm tại chỗ, nơi vi sinh vật lọt vào 
+Da và niêm mạc là rào cản đầu tiên ngăn cản sự xâm nhập của vi sinh vật vào cơ thể.
+
+Câu 78.  Biện pháp diệt tác nhân trung gian truyền bệnh.
+* Thường được áp dụng trong tất cả các vụ dịch do virus 
+Là phương pháp chủ yếu làm giảm tỷ lệ tử vong của bệnh virus
+Là một biện pháp phòng dịch hữu hiệu 
+Là phương thức chủ yếu đề làm giảm tỷ lệ mắc bệnh.
+
+Câu 79.  Chẩn đoán phân biệt phế cầu với liên cầu tan máu alpha căn cứ vào.
+* Thử nghiệm optochin 
+Thử nghiệm optochin và neufeld
+Thử nghiệm catalase
+Thử nghiệm bacitracin
+
+Câu 80.  Nhiễm sắc thể của vi khuẩn có đặc điểm.
+* Là hai đại phân tử AND dạng vòng, mạch kép
+Là một đại phân tử AND dạng vòng, mạch đơn 
+Là một đại phân tử AND dạng vòng, mạch kép 
+Là hai đại phân tử AND dạng vòng, mạch đơn 

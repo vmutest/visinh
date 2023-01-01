@@ -1,0 +1,479 @@
+﻿Câu 1. Các phản ứng dựa vào hoạt động sinh học của kháng thể.
+* Phản ứng ELISA và phản ứng ngăn ngưng kết hồng cầu
+Phản ứng ASLO và phản ứng ngăn ngưng kết hồng cầu
+Phản ứng ELISA và Western Blot
+Phản ứng kết hợp bổ thể và phản ứng trung hòa
+
+Câu 2. Hai nhóm Vibrio cholerae thường gây dịch tiêu chảy cấp là.
+* V. cholerae O1 và O139
+V. cholerae O2 và O138
+V. cholerae O2 và O3
+V, cholerae O3 và O138
+
+Câu 3. Khả năng gây bệnh của Shigella có liên quan trực tiếp đến. 
+* Sự xâm nhập vào các hạch mạc treo ruột
+Sự xâm nhập vào máu
+Sự xâm nhập vào biểu mô niêm mạc đại trang
+Khả năng sinh độc tố ruột giống như ETEC
+
+Câu 4. Để có tác dụng chống virus, thuốc có cấu trúc tương tự nucleosid cần có đặc tính sau. 
+* Có thể phosphoryl hoá thành triphosphat
+Có ai lực với enzyme polymerase của tế bào cao hơn cửa virut
+Không thấm vào bên trong tế bào lành
+Không được tế bào sử dụng nhầm trong quá trình tổng hợp acid nucleic
+
+Câu 5. Cơ chế tác dụng của Zidovudin. 
+* Ức chế cởi áo của virut
+Ức chế enzym sao chép ngược của HIV
+Ức chế tổng hợp ADN của virus
+Ức chế ADN polymerase của virus
+
+Câu 6. Nuôi cấy HIV thường áp dụng để.
+* Nghiên cứu đặc điểm di truyền của virut
+Theo dõi tiến triển bệnh
+Chẩn đoán nhiễm HIV ở người lớn
+Xác định chủng virus
+
+Câu 7. Aciclovir ở liều điều trị là không độc bởi vì. 
+* Đích của nó là enzyme polymerase của virut
+Nó làm cho sự tổng hợp ADN bị gián đoạn
+Nó được phosphoryl hoá thành aciclovir monophosphatase chủ yếu là nhờ enzyme kinase của virus
+Những tế bào không bị nhiễm virus chứa một chất ức chế ngăn cản sự biến đổi acyclovir monophosphate thành aciclovir triphosphate.
+
+Câu 8. Ứng dụng hậu quả tế bào bị phá vỡ khi virut nhân lên. 
+* Để tiêu diệt các tế bào bị bệnh
+Để giải phóng các thành phần cần thiết bên trong tế bào
+Để thu thập các thành phần virus tổng hợp thừa cần thiết cho y học
+Để chẩn đoán sự có mặt của virut trong môi trường nuôi cấy tế bào.
+
+Câu 9. Vỏ bao ngoài của virus cúm có bản chất hoá học. 
+* Polypeptide
+Lipolysacaric
+Protein
+Lipid kép
+
+Câu 10. Các đặc điểm của vi sinh vật, ngoại trừ.
+* Chuyển hoá nhanh, hấp thu nhanh
+Kích thước nhỏ bé
+Khó thích ứng với sự thay đổi của môi trường
+Nhiều chủng loại
+
+Câu 11. Tụ cầu được chẩn đoán là Staphylococcus aureus dựa vào tiêu chuẩn sau.
+* Tạo sắc tố vàng, có catalase
+Có tan máu, có độc tố ruột
+Có coagulaza, lên men đường manitol
+Có leucocidin và gây hoại tử da
+
+Câu 12. Nguyên nhân dẫn tới dự lây lan chủng vi khuẩn kháng kháng sinh. 
+* Dùng kháng sinh không đủ liều lượng, thời gian
+Dùng kháng sinh trong các trường hợp không đáp ứng với thuốc
+Điều trị mù, thiếu thông tin về vi khuẩn gây bệnh
+Không tuân thủ các quy tắc chống nhiễm khuẩn
+
+Câu 13. Mục đích phối hợp Sulfamid và Trimethoprim.
+* Giảm khả năng xuất hiện của vi khuẩn đề kháng 
+Điều trị các nhiễm khuẩn phối hợp 
+Để tăng khả năng diệt khuẩn
+Giảm liều gây độc của kháng sinh
+
+Câu 14. Vai trò của kháng nguyên N trong cấu trúc của virus cúm.
+* Giúp virus đến được tế bào cảm thụ thích hợp 
+Giúp virus nhân lên trong tế bào 
+Tham gia quá trình lắp ráp tạo hạt virus hoàn chỉnh 
+Tham gia sự giải phóng virus ra khỏi tế bào 
+
+Câu 15. Độc tố của Salmonella typhi 
+* Ngoại độc tố 
+Có bản chất là protein. 
+Làm tăng AMP của tế bào biểu mô ruột
+Kích thích thần kinh giao cảm ở bụng, gây thương tổn mảng Peyer. 
+
+Câu 16. HIV né tránh hệ thống miễn dịch bằng cách.
+* Biến đổi kháng nguyên 
+Tấn công vào hệ miễn dịch 
+Di chuyển tới vị trí ấn miễn dịch như não, mào tinh hoàn
+D Các ý trên đều đúng 
+
+Câu 17. Nguyên nhân chủ yếu dẫn tới sự thay đổi kháng nguyên ở virus cum do.
+* ARN phân đoạn. 
+Một vật chủ có thể mắc nhiều typ virus cúm 
+Hiện tượng đột biến 
+Nhận được các gen mới thông qua biến nạp, tải nạp.
+
+Câu 18. Trong giai đoạn nhiễm HIV cấp, có thể phát hiện HIV bằng kỹ thuật.
+* ELISA tìm kháng thể
+ELISA tìm kháng nguyên P24
+Western Blot 
+Miễn dịch huỳnh quang gián tiếp
+
+Câu 19. Viêm màng não do não mô cầu có thể kèm theo xuất huyết ở da vì. 
+* Nội độc tố của não mô cầu gây hủy hoại tế bào da 
+Phức hợp kháng nguyên-kháng thể-bổ thể gây độc và phá hủy tế bào nội mạch 
+Vỏ polysaccharide gây đông máu nội mạch rải rác, ức chế tập kết tiểu cầu
+Vi khuẩn chất giải phóng nội độc tố làm tăng tính thấm thành mạch
+
+Câu 20. Trong bệnh thương hàn, bệnh nhân sốt cao li bì do. 
+* Vi khuẩn xâm nhập vào máu gây tình trạng nhiễm khuẩn huyết 
+Vi khuẩn vào máu kích thích trung tâm thần kinh thực våt ở não thất ba
+Nội độc tố tác động trung tâm thần kinh thực vật ở nữ that ba
+Ngoại độc tố tác động trung tâm thần kinh thực ở não thất ba
+
+Câu 21. Sự đột biến cấu trúc kháng nguyên của virus cúm thường gặp nhất ở. 
+* Typ A
+Typ B
+Typ C
+Cả 3 typ A, B, C
+
+Câu 22. Vi khuẩn S. typhi muốn gây bệnh thương hàn cần phải. 
+* Xâm nhập theo đường tiêu hoá
+Nhân lên tại niêm mạch ruột
+xâm nhập vào máu
+Tiết ngoại độc tố gây hoại tử chảy máu ruột, sốt
+
+Câu 23. Phương pháp chẩn đoán HIV ở trẻ < 18 tháng sinh ra từ mẹ có HIV.
+* ELISA gián tiếp
+Miễn dịch huỳnh quang gián tiếp
+PCR
+Western blot
+
+Câu 24. Loài vi khuẩn đường ruột nào sau đây có khả năng tạo H2S.
+* E.coli
+S.typhi
+Klebsiella pneumoniae
+Shigella dysenteriae
+
+Câu 25. Sau khi nhiễm Salmonella thời gian xuất hiện các kháng thể trong máu đủ lớn để phát hiện là. 
+* Kháng thể O xuất hiện sau 12-14 ngày
+Kháng thể O xuất hiện sau 2-4 ngày
+Kháng thể H xuất hiện sau 7-10 ngày
+Kháng thể H xuất hiện sau 12-14 ngày
+
+Câu 26. Khả năng gây bệnh của Salmonella có liên quan trực tiếp đến. 
+* Sự xâm nhập vào các hạch mạc treo ruột
+Sự xâm nhập vào máu
+Sự xâm nhập vào tế bào biểu mô niêm mạc đại tràng
+Khả năng sinh độc tế giống như ETEC
+
+Câu 27. Hiện tượng hoán vị kháng nguyên thấy xảy ra ở ….(1). và là …(2). gây ra các vụ đại dịch của trên toàn cầu.
+* (1) virus cúm A và B, (2)nguyên nhân 
+(1) virus cúm A (2). nguyên nhân 
+C (1) virus cúm A và C2). nguyên nhân
+(1) virus cúm C, (2). nguyên nhân 
+
+Câu 28. Kháng thể được hình thành sau nhiễm HIV.
+* Kháng thể ADCC 
+Kháng thể kết hợp bổ thể 
+Kháng thể ngăn ngưng kết hồng cầu 
+Khẳng thể ngưng kết
+
+Câu 29. Phương pháp có giá trị nhất để chẩn đoán trực tiếp vi khuẩn gây bệnh thương hàn 
+* Cấy phân
+Cấy máu 
+Cấy nước tiểu
+Cấy dịch mật
+
+Câu 30. Trong bệnh thương hàn, vi khuẩn có thể cư trú tại các cơ quan dẫn đến tình trạng người lành mang bệnh, hay gặp nhất là ở cơ quan. 
+* Thận
+B Gan 
+Đường mật.
+Mảng payer. 
+
+Câu 31. Vi khuẩn S.typhi muốn gây bệnh thương hàn cần phải. 
+* Xâm nhập theo đường tiêu hóa 
+Nhân lên tại niêm mạc ruột
+Xâm nhập vào máu 
+Tiết ngoại độc tố gây hoại tử chảy máu ruột.
+
+Câu 32. Đặc điểm ban xuất huyết da trong bệnh viêm màng não do não mô cầu. 
+A, Sở mịn như nhung. 
+B, Chấm, nốt, mảng xuất huyết hình tròn
+Ban xuất huyết hình sao, có xu hướng hoại tử 
+Khi căng da ban biến mất
+
+Câu 33. Sau khi cấy bệnh phẩm vào môi trường thích hợp. để cho các vi khuẩn gây bệnh thường gặp phát triển, người ta đặt môi trường đó ở. 
+* Nhiệt độ phòng thí nghiệm
+Ở 4 -10 độ C
+Ở tủ ấm 35 -37 độ C
+18 -28 độ C
+
+Câu 34. Trong bệnh thương hàn, bệnh nhân sốt cao li bì là do. 
+* Vi khuẩn, xâm nhập vào máu gây tình trạng nhiễm khuẩn huyết
+Vi khuẩn vào máu kích thích trung tâm thần kinh thực vật ở não thất ba
+Nội độc tố tác động trung tâm thần kinh thực vật ở não thất ba
+Ngoại độc tố tác động trung tâm thần kinh thực vật ở não thất ba
+
+Câu 35. Cơ chế miễn dịch không đặc hiệu khác với cơ chế miễn dịch đặc hiệu ở chỗ nó có khả năng. 
+* Chống lại chung nhiều loại kháng nguyên
+Làm tăng hiệu quả của sức đề kháng chống vi sinh vật
+Giúp cơ thể vật chủ chống nhiễm vi sinh vật
+Đề phòng sự tái nhiễm vi sinh vật gây bệnh
+
+Câu 36. Ở vi khuẩn kháng kháng sinh, gen đề kháng tạo ra sự đề kháng bằng cách.
+* Làm thay đổi tính thấm của vách
+Thay đổi điểm gắn của thuốc
+Biến đổi cấu trúc của màng nhân
+Làm mất hoạt tính của ngoại độc tố
+
+Câu 37. Một trong những biện pháp phòng chống kháng thuốc ở vi khuẩn là. 
+* Chỉ điều trị khi có kết quả kháng sinh đồ
+Chỉ điều trị khi phân lập, định danh được vi khuẩn
+Chọn kháng sinh theo kết quả kháng sinh đồ
+Phối hợp nhiều loại kháng sinh và tăng liều kháng sinh
+
+Câu 38. Đề kháng giả của vi khuẩn kháng kháng sinh có thể do. 
+* Nguồn gốc di truyền
+Nhận được gen đề kháng kháng sinh
+Một số vi khuẩn không chịu tác động của một số thuốc kháng sinh nhất định.
+Vi khuẩn ở trạng thái không nhân lên, không chuyển hoá
+
+Câu 39. Interferon có tác dụng chống virus bằng cách. 
+* Tác động trực tiếp lên virus như kháng thể
+Kích thích tế bào tổng hợp các protein kháng virus
+Tiêu diệt các tế bào nhiễm virus
+Khởi động đáp ứng miễn dịch qua trung gian tế bào
+
+Câu 40. Nguyên tắc điều trị bệnh do virus hiện nay.
+* Chỉ cần điều tị triệu chứng
+Dùng kháng sinh đặc hiệu khi tìm ra tác nhân virus
+Dùng hoá dược trị liệu nếu cần
+Phải tiêm huyết thanh trong một số trường hợp
+
+Câu 41. Đại thực bào có chức năng. 
+* Hoạt hoá bổ thể
+Thực bào, bài tiết, miễn dịch, dịch thể
+Thực bào, bài tiết, xử lý và trình diện kháng nguyên
+Sản sinh các kháng thể tự nhiên
+
+Câu 42. Đề kháng thu được là hiện tượng. 
+* Nhận được gen đề kháng do đột biến
+Nhận được gen đề kháng do tế bào vi khuẩn mẹ truyền 
+Nhận được gen đề kháng do vai trò chọn lọc của kháng sinh
+Chỉ được di truyền giữa các vi khuẩn cùng loài.
+
+Câu 43. Các thành phần tham gia hiện tượng Opsonin hoá. 
+* Bổ thể, kháng thể, bạch cầu lympho, vi khuẩn
+Kháng thể, bạch cầu đa nhân trung tính, vi khuẩ, bổ thể
+Bạch cầu đa nhân trung tính, vi khuẩn, bổ thể, bạch cầu lympho
+Kháng thể, bạch cầu đa nhân trung tính, bổ thể, tế bào mang kháng nguyên
+
+Câu 44. Hàng rào miễn dịch dịch thể của cơ chế miễn dịch không đặc hiệu gồm.
+* Interferon, proterdin, globulin, tự kháng thể
+Bổ thể, proterdin, kháng thể tự nhiên, interferon
+Các acid béo chưa no, glycoprotein, lysozym
+Các câu trên đều đúng
+
+Câu 45. Các cơ chế bảo vệ kháng thể trong chống nhiễm trùng, ngoại trừ.
+* Ngăn ngừa sự bám của vi sinh vật
+Trung hòa độc lực của vi rút ngoại động tố, enzym
+Ngưng kết vi sinh vật
+Làm tan các vi sinh vật nội bào khí có bổ thể tham gia
+
+Câu 46. Đặc điểm Staphylococcus anseus
+* Có nội độc tố bản chất là lipopolysaccarit
+Có streptolysin O
+Có coagulaza
+Có độc tố ruột dễ bị huỷ bởi nhiệt và bị enzym ở ruột phá huỷ
+
+Câu 47. Đáp ứng miễn dịch tế bào đóng vai trò quan trọng trong các bệnh. 
+* Nhiễm trùng cấp tính 
+Nhiễm trùng mãn tính 
+Do VSV ký sinh nội bào
+Do VSV Ký sinh ngoại bào
+
+Câu 48. Kỹ thuật huyết thanh học có giá trị chẩn đoán khẳng định nhiễm HIV là
+* ELISA
+miễn dịch phóng xạ(RIA)
+miễn dịch huỳnh quang
+Western blot
+
+Câu 49. Tác dụng của men Coagulase
+* Làm ngưng kết huyết tương
+Làm đông huyết tương
+Trung hòa kháng thể
+Làm kết tủa huyết tương
+
+Câu 50. Hiện tượng ADCC là
+* Độc sát tế bào phụ thuộc vào kháng thể tự nhiên
+Độc sát tế bào phụ thuộc vào kháng thể đặc hiệu
+Độc sát tế bào phụ thuộc loại kháng nguyên
+Độc sát tế bào phụ thuộc tế bào giết tự nhiên
+
+Câu 51. Bức xạ bước sóng 257, 3mm có khả năng giết chết vi khuẩn do.
+* gây đột biến acid nucleic
+Làm biến tính protein
+Làm phá vỡ tế bào vi khuẩn
+Làm thay đổi đặc tính keo của nguyên sinh chất
+
+Câu 52. pH môi trường ngoài quá cao hoặc quá thấp sẽ ảnh hưởng lên sự phát triển của vi khuẩn do.
+* Làm biến tính protein của vi khuẩn
+Tác dụng lên chức năng màng bào tương
+Phá vỡ cấu trúc của tế bào
+Ảnh hưởng lên quá trình trao đổi chất của vi khuẩn
+
+Câu 53. Ở nhiệt độ dưới mức tối thiểu, các phản ứng chuyển hóa VSV
+* Được tăng cường để thích nghi
+Giảm hoặc ngừng trệ
+Không thay đổi
+Tạo nhiều sản phẩm độc làm VSV chết
+
+Câu 54. Bệnh phẩm tìm não mô cầu nên được bảo quản ở điều kiện
+* Khô
+Nhiệt độ lạnh -200C
+Nhiệt độ lạnh 40-80C
+Cần phải giữ ấm
+
+Câu 55. Phương pháp cất giữ chủng vi khuẩn tốt nhất là
+* Cất giữ vi khuẩn vào môi trường giữ chủng
+Để VK ở nhiệt độ 37 độ C
+Làm đông khô vK
+Cất giữ VK ở tủ lạnh -700C
+
+Câu 56. Ứng dụng đặc điểm “dễ dàng biến dị” của VSV
+* Dễ dàng nuôi cấy
+Không tốn thức ăn, diện tích
+Tạo ra biến chủng cần thiết
+Dễ phát hiện các đột biến
+
+Câu 57. Vi khuẩn dễ kháng thuốc kháng sinh bằng cơ chế: 
+* Sản xuất ra độc tố làm mất tác dụng của thuốc
+sản xuất ra các enzym phá huỷ thuốc kháng sinh
+Tạo nha bào và trở nên đề kháng
+Tạo ra vỏ xung quanh thân
+
+Câu 58. Sự đề kháng tự nhiên:
+* Có nguồn gốc do đột biến nhiễm sắc thể
+Do tiếp nhận plasmid kháng thuốc
+Do trong cấu trúc của vi khuẩn không có đích tác động của kháng sinh
+Do vi khuẩn khi tiếp xúc với kháng sinh thì tạo nha bào giúp vi khuẩn đề kháng
+
+Câu 59. Ưu thế của vi sinh vật trong công nghệ di truyền phân tử: 
+* Đa dạng, phong phú về chủng loại
+Khả năng thích ứng mạnh
+Bộ gen đơn giản, dễ chiết tách và tinh sạch
+Kích thước nhỏ bé.
+
+Câu 60. Sử dụng kháng sinh rộng rãi không đúng chỉ định sẽ dẫn đến tình trạng: 
+* Tất cả vi khuẩn bị tiêu diệt, kể cả loại có lợi
+Các vi khuẩn nhạy cảm được tự do phát triển mà không bị ức chế cạnh tranh bởi các vi khuẩn khác
+Chọn lọc được các vi khuẩn kháng kháng sinh
+Làm vi khuẩn trở nên nhạy cảm với kháng sinh
+
+Câu 61. Kháng sinh và hóa chất tiệt trùng, khử khuẩn khác nhau ở.
+* Thời gian tác dụng 
+Vị trí the cung 
+Chủng loại vi khuẩn tác dụng
+Nồng độ tác dụng 
+
+Câu 62. Tính chất sinh vật hoá học của Neisseria meningitidis:
+* Không có men oxidase
+Không có men catalase
+Lên men đường Maltose
+Không lên men đường glucose
+
+Câu 63. Thử nghiệm phòng thí nghiệm để đánh giá độ nhạy của vi khuẩn với thuốc kháng sinh 
+* Kỹ thuật khuếch tán kháng sinh - 
+Kỹ thuật pha loãng kháng sinh 
+Kháng sinh đồ. 
+Kỹ thuật đĩa kháng sinh 
+
+Câu 64. Quá trình phát triển của virus cúm ở đường hô hấp trên dẫn tới. 
+* Tạo giả mạc ở vùng hầu họng
+Sự nhiễm virus vào hệ thống thần kinh 
+Sự hủy hoại của các tổ chức liên bao
+Ức chế hệ thống miễn dịch 
+
+Câu 65. Ở môi trường ưu trương tế bào vi khuẩn sẽ chết do
+* Tế bào bị thiếu nước 
+Chức năng màng bảo trong bị phá hủy
+Biển tính và đông tụ protein nội bào 
+Tế bào bị mất nước và bị teo lại 
+
+Câu 66. Mục đích phối hợp kháng sinh trong điều trị bệnh lao.
+* Giảm khả năng xuất hiện chủng vi khuẩn đề kháng 
+Điều trị các nhiễm khuẩn phối hợp 
+Để tăng khả năng diệt khuẩn 
+Giảm liều gây độc của kháng sinh
+
+Câu 67. Các đặc điểm của interferon (IFN). 
+* Xuất hiện từ ngày 4-7 sau khi có virus xâm nhập cơ thể
+IFN của loài động vật nào sản xuất ra chỉ có tác dụng với loài đó 
+Có tác dụng đặc hiệu với kháng nguyên 
+Ngăn chặn virus nhân lên do phá vỡ vỏ capsid của virus
+
+Câu 68. Biểu hiện của mỗi hợp tác giữa cơ chế bảo vệ đặc hiệu ở và không đặc hiệu, ngoại trừ.
+* Lympho B sản xuất IgAs trên bề mặt niêm mạc 
+Lympho T tiết ra Interleukin hỗ trợ đại thực bào 
+Hiện tượng ADCC
+Hiện tượng Opsonin hóa
+
+Câu 69. Interferon và kháng thể giống nhau ở.
+* Có vai trò miễn dịch
+Cùng thuộc hệ miễn dịch đặc hiệu
+Tác động trực tiếp lên vi khuẩn
+Tác động lên cơ thể đồng chủng, đồng loài
+
+Câu 70. Các kiểu thay đổi kháng nguyên ở virus cúm.
+* Hoán vị kháng nguyên và đột biến gen mã hoá protein H
+Hoán vị kháng nguyên và đột biến gen mã hoá protein N
+Đột biến gen mã hoá protein H và kháng nguyên N
+Hoán vị kháng nguyên và đột biến gen mã hoá protein H, N
+
+Câu 71. pH môi trường ngoài quá cao hoặc quá thấp hướng lên sự phát triển của vi khuẩn do.
+* Làm biến tính protein của vi khuẩn
+Tác dụng lên chức năng màng bào tương
+Phá vỡ cấu trúc của tế bào
+Ảnh hưởng lên quá trình trao đổi chất của vi khuẩn
+
+Câu 72. Shigella được đào thải ra ngoại cảnh chủ yếu theo. 
+* Phân
+Nước tiểu
+Giọt nước bọt
+Niêm mạc mũi
+
+Câu 73. Để tiệt trùng nước sinh hoạt người ta thường sử dụng.
+* Phenol hoặc các hợp chất của phenol
+Khí Clo hoặc Cloramin 
+Dung dịch thuốc tím KMnO4 1 0/00 
+Chiếu tia cực tím 
+
+Câu 74. Hiện tượng hoán vị kháng nguyên ở virus cúm có thể xảy ra khi.
+* Virus nhận được đoạn ARN mới và trao đổi với genom của mình
+Hai hay nhiều chủng virus cúm cùng xâm nhiễm vào một tế bảo
+Có hiện tượng đảo đoạn do genome của virus phân đoạn
+Đột biến làm biến đổi cấu trúc một đoạn gen của virus
+
+Câu 75. Đối tượng có nguy cơ cao nhất lây nhiễm Leptospira là
+*Tất cả mọi người 
+Bác sĩ thú y
+Người giết mổ gia súc 
+Trẻ em
+
+Câu 76. Hai dòng tế bào thường dùng trong nuôi cấy virus là
+Tế bào bào thai người, tế bào nguyên phát
+*Tế bào nguyên phát, tế bào lưỡng bội của người
+Tế bào nguyên phát, tế bào thường trực
+Tế bào Hela, tế bào bào thai người
+
+Câu 77. Kỹ thuật xét nghiệm Serodia
+Cho kết quả khẳng định 
+*Bản chất là phản ứng ngưng kết thụ động
+Cho kết quả khẳng định 
+Giúp chẩn đoán sớm nhiễm HIV
+
+Câu 78. Các vi khuẩn thuộc họ Enterobacteriaceae là những trực khuẩn ….(1)…. Không sinh…(2)….
+(1) ngắn, (2): urease 
+(1) dài, ngắn khác nhau, (2): H2S
+(1) Gram, (2): H2S 
+*(1) Gram, (2): Nha bào
+
+Câu 79. Ứng dụng gai nhú có ô vỏ envelope của một số virus
+*Là những kháng nguyên quan trọng trong chẩn đoán
+Có tác dụng giúp virus di chuyển trong gian bào
+Là những kháng nguyên không đóng vai trò độc lực
+Có tác dụng giúp virus tránh được thực bào
+
+Câu 80. Vacxin virus nào sau đây có bản chất là vacxin sống giảm động lực
+Vacxin viêm gan B 
+*Vacxin Sabin 
+Vacxin BCG 
+Vacxin viêm não Nhật
